@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@firebase-oss/ui-core": "7.0.2-beta",
     "@firebase-oss/ui-react": "7.0.2-beta",
     "firebase": "^12.14.0",
     "next": "16.2.9",

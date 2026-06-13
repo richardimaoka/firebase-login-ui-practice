@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@firebase-oss/ui-core':
+        specifier: 7.0.2-beta
+        version: 7.0.2-beta(firebase@12.14.0)
       '@firebase-oss/ui-react':
         specifier: 7.0.2-beta
         version: 7.0.2-beta(@types/react@19.2.17)(firebase@12.14.0)(nanostores@1.3.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(typescript@5.9.3)
